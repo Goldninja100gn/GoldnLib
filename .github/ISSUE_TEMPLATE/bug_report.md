@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: "[BUG] [mc version] short description/title of the issue"
 labels: bug
-assignees: ''
+assignees: Goldninja100gn
 
 ---
 
